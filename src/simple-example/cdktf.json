@@ -1,0 +1,9 @@
+{
+  "language": "typescript",
+  "terraformProviders": ["kreuzwerker/docker@~> 2.13.0"],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
